@@ -13,14 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Amonnium
+email: joaodiogooliveira@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  I am Amonnium, a hobbyist developer and technology enthusiast, dedicated to creating good and free software for everyone and sharing knowledge with the community.
+  My projects are available on my GitHub profile, and they are:
+  hello-world: my first project, when I was more young, presenting me and showing a Python "Hello, World!". Archived. Link: https://github.com/Amonnium/hello-world
+  Apple Intelligence: a terminal-based Python simulation of the Apple Intelligence, the AI of Apple Inc. Archived. Link: https://github.com/Amonnium/Apple-Intelligence
+  Hello World in Different Languages: a project that shows the "Hello, World!" program in different programming languages. Link: https://github.com/Amonnium/Hello-World-in-Different-Languages
+  Calculate Pi Scripts: a project that contains scripts to calculate the value of Pi in different programming languages with different methods. My biggest project so far. Link: https://github.com/Amonnium/Calculate-Pi-Scripts
+  amonnium.github.io: my personal website, which is this website. Link: https://amonnium.github.io/
+github_username: Amonnium
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +61,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "João Oliveira"
+  avatar : "/assets/images/Amonnium-GitHub.jpg"
+  bio    : "A hobbyist developer and technology enthusiast, dedicated to creating good and free software for everyone and sharing knowledge with the community."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://amonnium.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Amonnium"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Amonnium"
 
 defaults:
   # _posts
