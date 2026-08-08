@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "João Oliveira"
+  name   : "João Diogo Rebelo Oliveira"
   avatar : "/assets/images/Amonnium-GitHub.jpg"
   bio    : "A hobbyist developer and technology enthusiast, dedicated to creating good and free software for everyone and sharing knowledge with the community."
   links:
