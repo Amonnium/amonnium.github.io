@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+  I am Amonnium, a hobbyist developer and technology enthusiast, dedicated to creating good and free software for everyone and sharing knowledge with the community.
+  My projects are available on my GitHub profile, and they are:
+  hello-world: my first project, when I was more young, presenting me and showing a Python "Hello, World!". Archived. Link: <https://github.com/Amonnium/hello-world>
+  Apple Intelligence: a terminal-based Python simulation of the Apple Intelligence, the AI of Apple Inc. Archived. Link: <https://github.com/Amonnium/Apple-Intelligence>
+  Hello World in Different Languages: a project that shows the "Hello, World!" program in different programming languages. Link: <https://github.com/Amonnium/Hello-World-in-Different-Languages>
+  Calculate Pi Scripts: a project that contains scripts to calculate the value of Pi in different programming languages with different methods. My biggest project so far. Link: <https://github.com/Amonnium/Calculate-Pi-Scripts>
+  amonnium.github.io: my personal website, which is this website. Link: <https://amonnium.github.io/>
