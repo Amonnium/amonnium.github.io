@@ -5,3 +5,14 @@
 layout: home
 author_profile: true
 ---
+ 
+<!-- Force-render posts list in case theme home layout omits it -->
+<div class="custom-post-list">
+{% for post in site.posts %}
+	<article class="post-item">
+		<h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+		<p class="post-meta">{{ post.date | date: "%B %-d, %Y" }} • {{ post.categories | join: ", " }}</p>
+		<div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</div>
+	</article>
+{% endfor %}
+</div>
