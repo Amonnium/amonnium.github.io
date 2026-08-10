@@ -11,4 +11,4 @@ Hosted on GitHub Pages, this website shows presents me and shows my GitHub portf
 Stay tuned for all the releases and new projects made by me.
 
 - Amonnium
-- August 8 2026
+- August 10 2026
