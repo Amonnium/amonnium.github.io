@@ -11,3 +11,5 @@ title: "About"
   Calculate Pi Scripts: a project that contains scripts to calculate the value of Pi in different programming languages with different methods. My biggest project so far. Link: <https://github.com/Amonnium/Calculate-Pi-Scripts>
   Amonnium Scripted Terminal Utilities: A set of some essential utilities, in some scripting languages, that can be run on the terminal. Made for terminal nerds. Link: <https://github.com/Amonnium/Amonnium-Scripted-Terminal-Utilities>
   amonnium.github.io: my personal website, which is this website. Link (repo): <https://github.com/Amonnium/amonnium.github.io/>
+  Data Explorer: a search mechanism for searching data across your document database or your JSON/XML data files in a specific folder. Link: <https://github.com/Amonnium/Data-Explorer>
+  
